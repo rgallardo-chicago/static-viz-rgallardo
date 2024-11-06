@@ -1,0 +1,1609 @@
+MAKE,BASEMODEL,CLASS
+Acura,CL,Sedan
+Acura,ILX,Sedan
+Acura,Legend,Sedan
+Acura,TL,Sedan
+Acura,TLX,Sedan
+Acura,TSX,Sedan
+Acura,Vigor,Sedan
+Alfa Romeo,164,Sedan
+Audi,100,Sedan
+Audi,80/90,Sedan
+Audi,A3,Sedan
+Audi,A4,Sedan
+Audi,A6,Sedan
+Audi,RS 4,Sedan
+Audi,S4,Sedan
+Audi,S6,Sedan
+Audi,V8,Sedan
+BMW,2 Series,Sedan
+BMW,3 Series,Sedan
+BMW,4 Series,Sedan
+BMW,5 Series,Sedan
+BMW,6 Series,Sedan
+BMW,7 Series,Sedan
+BMW,M,Sedan
+BMW,i5,Sedan
+Bentley,Azure,Sedan
+Bentley,Brooklands,Sedan
+Bentley,Continental,Sports Sedan
+Lincoln,Continental,Sports Sedan
+Bill Dovell Motor Car Company,Dovell 230CE,Sedan
+Bill Dovell Motor Car Company,Dovell 230E,Sedan
+Bitter Gmbh and Co. Kg,Bitter SC,Sedan
+Buick,Riviera,Sedan
+Buick,Skyhawk,Sedan
+Buick,Skylark,Sedan
+Buick,Somerset Regal,Sedan
+Buick,Somerset/Skylark,Sedan
+Buick,Verano,Sedan
+Cadillac,ATS,Sedan
+Cadillac,ATS-V,Sedan
+Cadillac,CT4,Sedan
+Cadillac,Cimarron,Sedan
+Cadillac,Eldorado,Sedan
+Chevrolet,Aveo,Sedan
+Chevrolet,Beretta,Sedan
+Chevrolet,Camaro,Sedan
+Chevrolet,Cavalier,Sedan
+Chevrolet,Cobalt,Sedan
+Chevrolet,Corsica,Sedan
+Chevrolet,Cruze,Sedan
+Chevrolet,Nova,Sedan
+Chevrolet,Optra,Sedan
+Chevrolet,Prizm,Sedan
+Chevrolet,Sonic,Sedan
+Chevrolet,Volt,Sedan
+Chrysler,200,Sedan
+Chrysler,JX/JXI/Limited Convertible,Sedan
+Chrysler,LeBaron,Sedan
+Chrysler,Sebring,Sedan
+Daewoo,Kalos,Sedan
+Daewoo,Lacetti,Sedan
+Daewoo,Lanos,Sedan
+Daewoo,Nubira,Sedan
+Dodge,Avenger,Sedan
+Dodge,CSX,Sedan
+Dodge,Challenger,Sedan
+Dodge,GLH-S,Sedan
+Dodge,Neon,Sedan
+Dodge,Neon/SRT-4/SX 2.0,Sedan
+Dodge,Omni,Sedan
+Dodge,Shadow,Sedan
+Dodge,Stratus,Sedan
+Ferrari,F175 AHA,Sedan
+Ford,Contour,Sedan
+Ford,Escort,Sedan
+Ford,Fiesta,Sedan
+Ford,Focus,Sedan
+Ford,Laser,Sedan
+Ford,Probe,Sedan
+Ford,Tempo,Sedan
+Ford,Thunderbird,Sports Sedan
+Genesis,G70,Sedan
+Geo,Prizm,Sedan
+Honda,Accord,Sedan
+Honda,Civic,Sedan
+Honda,EV Plus,Sedan
+Honda,Insight,Sedan
+Hyundai,Accent,Sedan
+Hyundai,Accent/Brio,Sedan
+Hyundai,Elantra,Sedan
+Hyundai,J-Car/Elantra,Sedan
+Hyundai,Precis,Sedan
+Hyundai,Veloster,Sedan
+Import Trade Services,BMW 325I,Sedan
+Import Trade Services,ITS 320,Sedan
+Import Trade Services,MB 300E,Sedan
+Infiniti,G20,Sedan
+Infiniti,G35,Sedan
+Infiniti,M45,Sedan
+Infiniti,Q50,Sedan
+Infiniti,QX30,Sedan
+Isuzu,Stylus,Sedan
+J.K. Motors,190E 2.3 MERC BENZ,Sedan
+Jaguar,X-Type,Sedan
+Jaguar,XE,Sedan
+Jaguar,XJ,Sedan
+Jaguar,XJR,Sedan
+Kandi,K27,Sedan
+Kenyon Corporation Of America,Kenyon 5.0 Coupe,Sedan
+Kenyon Corporation Of America,Kenyon 5.0 Sp Sedan,Sedan
+Kia,Forte,Sedan
+Kia,Rio,Sedan
+Kia,Sephia,Sedan
+Kia,Sephia/Spectra,Sedan
+Kia,Spectra,Sedan
+Lambda Control Systems,300E,Sedan
+Lexus,UX,Sedan
+Lexus,TX,SUV
+Lexus,SC430,Sedan
+Lexus,SC400,Sedan
+Lexus,SC300,Sedan
+Lexus,SC,Sedan
+MINI,Paceman,Sedan
+Mazda,2,Sedan
+Mazda,3,Sedan
+Mazda,323,Sedan
+Mazda,323 Protege,Sedan
+Mazda,626,Sedan
+Mazda,CX-3,Sedan
+Mazda,Millenia,Sedan
+Mazda,Protege,Sedan
+Mazda,Protege/Protege 5,Sedan
+Mazda,Protege/Protege MPS,Sedan
+Mcevoy Motors,240 DL/240 GL Sedan,Sedan
+Mercedes-Benz,190,Sedan
+Mercedes-Benz,200,Sedan
+Mercedes-Benz,230,Sedan
+Mercedes-Benz,260,Sedan
+Mercedes-Benz,300,Sedan
+Mercedes-Benz,350,Sedan
+Mercedes-Benz,380,Sedan
+Mercedes-Benz,400,Sedan
+Mercedes-Benz,500,Sedan
+Mercedes-Benz,560,Sedan
+Mercedes-Benz,C-Class,Sedan
+Mercedes-Benz,CL-Class,Sedan
+Mercedes-Benz,CLA-Class,Sedan
+Mercedes-Benz,CLS-Class,Sedan
+Mercedes-Benz,E-Class,Sedan
+Mercedes-Benz,S-Class,Sedan
+Mercury,Cougar,Sedan
+Mercury,Lynx,Sedan
+Mercury,Mystique,Sedan
+Mercury,Topaz,Sedan
+Mercury,Tracer,Sedan
+Merkur,XR4Ti,Sedan
+Mitsubishi,Diamante,Sedan
+Mitsubishi,Galant,Sedan
+Mitsubishi,Lancer,Sedan
+Mitsubishi,Mirage,Sedan
+Mitsubishi,Precis,Sedan
+Mitsubishi,Sigma,Sedan
+Nissan,Altima,Sedan
+Nissan,Altima / Stanza,Sedan
+Nissan,Maxima,Sedan
+Nissan,Sentra,Sedan
+Nissan,Stanza,Sedan
+Nissan,Versa,Sedan
+Oldsmobile,Achieva,Sedan
+Oldsmobile,Alero,Sedan
+Oldsmobile,Calais,Sedan
+Oldsmobile,Cutlass Calais,Sedan
+Oldsmobile,Firenza,Sedan
+Oldsmobile,Omega,Sedan
+Peugeot,405,Sedan
+Peugeot,505,Sedan
+Peugeot,604,Sedan
+Plymouth,Horizon,Sedan
+Plymouth,Neon,Sedan
+Plymouth,Sundance,Sedan
+Plymouth,Sundance/Duster,Sedan
+Pontiac,G3,Sedan
+Pontiac,G6,Sedan
+Pontiac,GTO,Sedan
+Pontiac,Grand Am,Sedan
+Pontiac,Lemans,Sedan
+Pontiac,Sunbird,Sedan
+Pontiac,Sunfire,Sedan
+Pontiac,Wave,Sedan
+Porsche,Taycan,Sedan
+Renault,Alliance/Encore,Sedan
+Renault,GTA,Sedan
+Rolls-Royce,Camargue,Sedan
+Bentley,Continental,Sports Sedan
+Rolls-Royce,Dawn,Sedan
+Rolls-Royce,Phantom,Sedan
+Rolls-Royce,Spectre,Sedan
+STI,S209,Sedan
+Saab,3-Sep,Sedan
+Saab,900,Sedan
+Saturn,Astra,Sedan
+Saturn,Ion,Sedan
+Saturn,SL,Sedan
+Scion,tC,Sedan
+Sterling,825,Sedan
+Sterling,827,Sedan
+Subaru,Impreza/Outback Sport,Sedan
+Subaru,Legacy/Outback,Sedan
+Subaru,Loyale,Sedan
+Subaru,Sedan,Sedan
+Subaru,WRX,Sedan
+Suzuki,Aerio,Sedan
+Suzuki,Forenza,Sedan
+Suzuki,Kizashi,Sedan
+Suzuki,Reno,Sedan
+Suzuki,SX4,Sedan
+Suzuki,Swift,Sedan
+Texas Coach Company,500SEC,Sedan
+Toyota,C-HR,Sedan
+Toyota,Camry,Sedan
+Toyota,Corolla,Sedan
+Toyota,Cressida,Sedan
+Toyota,Echo,Sedan
+Toyota,Mirai,Sedan
+Toyota,Prius,Sedan
+Toyota,Prius c,Sedan
+Toyota,Yaris,Sedan
+Volkswagen,Beetle,Sedan
+Volkswagen,CC,Sedan
+Volkswagen,GLI,Sedan
+Volkswagen,Golf/GTI,Sedan
+Volkswagen,Jetta,Sedan
+Volkswagen,Passat,Sedan
+Volkswagen,Quantum,Sedan
+Volkswagen,R32,Sedan
+Volkswagen,Rabbit,Sedan
+Volvo,240,Sedan
+Volvo,780,Sedan
+Volvo,960,Sedan
+Volvo,960/S90,Sedan
+Volvo,C30,Sedan
+Volvo,C70,Sedan
+Volvo,Coupe,Sedan
+Volvo,S40,Sedan
+Volvo,S60,Sedan
+Volvo,S90,Sedan
+Wallace Environmental,Wetl 300,Sedan
+Wallace Environmental,Wetl 412,Sedan
+Wallace Environmental,Wetl 500,Sedan
+Wallace Environmental,Wetl 560,Sedan
+Acura,Integra,Sedan
+Audi,A8,Sedan
+Audi,S8,Sedan
+BMW,X1,Sedan
+BMW,i7,Sedan
+BMW Alpina,7 Series,Sedan
+Bentley,Arnage,Sedan
+Buick,Electra/Park Avenue,Sedan
+Buick,LeSabre,Sedan
+Buick,Lucerne,Sedan
+Buick,Park Avenue,Sedan
+Buick,Regal,Sedan
+Buick,Roadmaster,Sedan
+CCC Engineering,Duntov GT,Sedan
+CX Automotive,CX,Sedan
+Cadillac,Armored DTS,Sedan
+Cadillac,Armored Deville,Sedan
+Cadillac,Brougham,Sedan
+Cadillac,Brougham/DeVille,Sedan
+Cadillac,CT6,Sedan
+Cadillac,DTS,Sedan
+Cadillac,DeVille,Sedan
+Cadillac,DeVille/60 Special,Sedan
+Cadillac,DeVille/Concourse,Sedan
+Cadillac,Fleetwood,Sedan
+Cadillac,Fleetwood Brougham,Sedan
+Cadillac,Fleetwood/DeVille,Sedan
+Cadillac,Funeral Coach/Hearse,Sedan
+Cadillac,Limousine,Sedan
+Cadillac,Seville,Sedan
+Cadillac,XTS,Sedan
+Chevrolet,Caprice,Sedan
+Chevrolet,Impala,Sedan
+Chevrolet,Impala/Caprice,Sedan
+Chevrolet,Malibu,Sedan
+Chevrolet,SS,Sedan
+Chrysler,300,Sedan
+Chrysler,300 SRT8,Sedan
+Chrysler,Concorde,Sedan
+Chrysler,Concorde/LHS,Sedan
+Chrysler,Fifth Avenue/Imperial,Sedan
+Chrysler,Imperial/New Yorker Fifth Avenue,Sedan
+Chrysler,LHS,Sedan
+Chrysler,New Yorker Fifth Avenue/Imperial,Sedan
+Chrysler,New Yorker/LHS,Sedan
+Dabryan Coach Builders Inc,WB,Sedan
+Dodge,Charger,Sedan
+Dodge,Intrepid,Sedan
+Dodge,Monaco,Sedan
+Eagle,Premier,Sedan
+Eagle,Vision,Sedan
+Federal Coach,24E,Sedan
+Federal Coach,85J,Sedan
+Federal Coach,Eagle,Sedan
+Federal Coach,Formal,Sedan
+Federal Coach,Lincoln 100J,Sedan
+Federal Coach,Lincoln 24E,Sedan
+Federal Coach,Lincoln 85J,Sedan
+Federal Coach,Lincoln Eagle/Windsor,Sedan
+Federal Coach,Lincoln Eaton,Sedan
+Federal Coach,Six Door,Sedan
+Federal Coach,Windsor,Sedan
+Ford,C-MAX,Sedan
+Ford,Crown Victoria,Sedan
+Ford,Five Hundred,Sedan
+Ford,LTD Crown Victoria,Sedan
+Ford,Taurus,Sedan
+Genesis,G80,Sedan
+Genesis,G90,Sedan
+Genesis,GV60,Sedan
+Hyundai,Azera,Sedan
+Hyundai,Equus,Sedan
+Hyundai,Genesis,Sedan
+Hyundai,Ioniq,Sedan
+Hyundai,Ioniq 5,Sedan
+Hyundai,Sonata,Sedan
+Infiniti,M35,Sedan
+Infiniti,Q45,Sedan
+J.K. Motors,MERC BENZ 300SEL,Sedan
+"JBA Motorcars, Inc.",W-126/4 Series,Sedan
+Jaguar,Super V8,Sedan
+Jaguar,Vdp,Sedan
+Jaguar,XJL,Sedan
+Kia,Amanti,Sedan
+Kia,Cadenza,Sedan
+Kia,K5,Sedan
+Kia,K900,Sedan
+Kia,Optima,Sedan
+Lexus,RZ,SUV
+Bentley,Continental Flying Spur,Sports Sedan
+Lincoln,MKS,Sedan
+Lincoln,Town Car,Sedan
+London Coach Co Inc,London Taxi,Sedan
+Lucid,Air,Sedan
+Maserati,Quattroporte,Sedan
+Maybach,57,Sedan
+Maybach,62,Sedan
+Maybach,Landaulet,Sedan
+Mercedes-Benz,EQS,Sedan
+Mercedes-Benz,Maybach,Sedan
+Mercury,Grand Marquis,Sedan
+Mercury,Marauder,Sedan
+Mercury,Montego,Sedan
+Mercury,Sable,Sedan
+Oldsmobile,Delta 88,Sedan
+Oldsmobile,Delta 88 Royale,Sedan
+Oldsmobile,Eighty-Eight,Sedan
+Oldsmobile,Eighty-Eight/Regency,Sedan
+Oldsmobile,Eighty-Eight/Regency/LSS,Sedan
+Oldsmobile,Ninety-Eight,Sedan
+Oldsmobile,Ninety-Eight II,Sedan
+Oldsmobile,Ninety-Eight Regency,Sedan
+Oldsmobile,Ninety-Eight/Touring,Sedan
+Pontiac,Bonneville,Sedan
+Pontiac,G8,Sedan
+Pontiac,Parisienne,Sedan
+Porsche,Panamera,Sedan
+Rolls-Royce,Ghost,Sedan
+Rolls-Royce,Limousine,Sedan
+Rolls-Royce,Park Ward,Sedan
+Rolls-Royce,Silver Spur II Mpw Touring L,Sedan
+Rolls-Royce,Silver Spur III Limousine,Sedan
+Rolls-Royce,Silver Spur Limousine,Sedan
+Rolls-Royce,Silver Spur Park Ward,Sedan
+Saab,9000,Sedan
+Subaru,Legacy,Sedan
+Tesla,Model S,Sedan
+Toyota,Avalon,Sedan
+Volkswagen,Arteon,Sedan
+Volkswagen,Phaeton,Sedan
+Wallace Environmental,Wetl 600 SEL,Sedan
+ASC Incorporated,GNX,Sedan
+Acura,RL,Sedan
+Acura,RLX,Sedan
+Alfa Romeo,Giulia,Sedan
+Audi,200,Sedan
+Audi,5000,Sedan
+Audi,A5,Sedan
+Audi,A7,Sedan
+Audi,RS,Sedan
+Audi,RS 6,Sedan
+Audi,RS 7,Sedan
+Audi,RS e-tron GT,Sedan
+Audi,S5,Sedan
+Audi,S7,Sedan
+Audi,e-tron GT,Sedan
+BMW,8 Series,Sedan
+BMW,X2,Sedan
+Bentley,Continental GT Convertible,Sports Sedan
+Bentley,Flying Spur,Sedan
+Bentley,Mulsanne,Sedan
+Bentley,Turbo RT,Sedan
+Bitter Gmbh and Co. Kg,SC,Sedan
+Buick,Century,Sedan
+Buick,LaCrosse,Sedan
+Buick,Lacrosse/Allure,Sedan
+Buick,Regal/Century,Sedan
+CX Automotive,XM,Sedan
+Cadillac,CT5,Sedan
+Cadillac,CTS,Sedan
+Cadillac,CTS-V,Sedan
+Cadillac,Catera,Sedan
+Cadillac,STS,Sedan
+Cadillac,STS-V,Sedan
+Chevrolet,Celebrity,Sedan
+Chevrolet,Citation II,Sedan
+Chevrolet,Classic,Sedan
+Chevrolet,Epica,Sedan
+Chevrolet,Lumina,Sedan
+Chevrolet,Lumina/Monte Carlo,Sedan
+Chevrolet,Monte Carlo,Sedan
+Chrysler,Cirrus,Sedan
+Chrysler,E Class/New Yorker,Sedan
+Chrysler,Executive Sedan/Limousine,Sedan
+Chrysler,Limousine,Sedan
+Chrysler,New Yorker,Sedan
+Chrysler,New Yorker/5th Avenue,Sedan
+Chrysler,Newport/Fifth Avenue,Sedan
+Daewoo,Leganza,Sedan
+Daewoo,Magnus,Sedan
+Dodge,600,Sedan
+Dodge,Aries,Sedan
+Dodge,Dart,Sedan
+Dodge,Diplomat,Sedan
+Dodge,Dynasty,Sedan
+Dodge,Lancer,Sedan
+Dodge,Spirit,Sedan
+Eagle,Medallion,Sedan
+Eagle,Renault Medallion,Sedan
+Ferrari,612 Scaglietti,Sedan
+Ferrari,FF,Sedan
+Ford,Fusion,Sedan
+Ford,LTD,Sedan
+Honda,Clarity,Sedan
+Hyundai,Ioniq 6,Sedan
+Hyundai,XG,Sedan
+Import Trade Services,ITS 520,Sedan
+Infiniti,G25,Sedan
+Infiniti,G37,Sedan
+Infiniti,I30,Sedan
+Infiniti,I35,Sedan
+Infiniti,M37,Sedan
+Infiniti,M56,Sedan
+Infiniti,Q40,Sedan
+Infiniti,Q70,Sedan
+J.K. Motors,230E MERC BENZ,Sedan
+J.K. Motors,300CE MERC BENZ,Sedan
+J.K. Motors,300E MERC BENZ,Sedan
+J.K. Motors,BMW535I,Sedan
+J.K. Motors,BMW635CSI,Sedan
+J.K. Motors,BMW635L6,Sedan
+J.K. Motors,BMW735I,Sedan
+J.K. Motors,BMW735IL,Sedan
+J.K. Motors,MERC BENZ 300CE,Sedan
+J.K. Motors,MERC BENZ 300E,Sedan
+J.K. Motors,MERC BENZ 300SE,Sedan
+J.K. Motors,MERC.BENZ 260E,Sedan
+J.K. Motors,MERC.BENZ.300SE,Sedan
+J.K. Motors,PORSCHE 928 S4,Sedan
+Jaguar,S-Type,Sedan
+Jaguar,Vanden Plas,Sedan
+Jaguar,XF,Sedan
+Kenyon Corporation Of America,Kenyon 5.0 Sedan,Sedan
+Kia,Stinger,Sedan
+Lincoln,LS,Sedan
+Lincoln,MKZ,Sedan
+Lincoln,Mark VII,Sedan
+Lincoln,Mark VIII,Sedan
+Lincoln,Zephyr,Sedan
+MINI,Clubman,Sedan
+MINI,John Cooper Works,Sedan
+Maserati,228,Sedan
+Maserati,Ghibli,Sedan
+Mazda,6,Sedan
+Mazda,626/MX-6,Sedan
+Mazda,929,Sedan
+Mazda,MX-30,Sedan
+Mazda,Speed 3,Sedan
+Mcevoy Motors,740 GLE Sedan,Sedan
+Mercedes-Benz,420,Sedan
+Mercedes-Benz,B-Class Electric Drive,Sedan
+Mercedes-Benz,EQE,Sedan
+Mercury,Marquis,Sedan
+Mercury,Milan,Sedan
+Merkur,Scorpio,Sedan
+Nissan,Kicks,Sedan
+Nissan,LEAF,Sedan
+Oldsmobile,Aurora,Sedan
+Oldsmobile,Ciera,Sedan
+Oldsmobile,Cutlass,Sedan
+Oldsmobile,Cutlass Ciera,Sedan
+Oldsmobile,Cutlass Supreme,Sedan
+Oldsmobile,Intrigue,Sedan
+Oldsmobile,Toronado,Sedan
+Oldsmobile,Trofeo/Toronado,Sedan
+Plymouth,Acclaim,Sedan
+Plymouth,Breeze,Sedan
+Plymouth,Caravelle,Sedan
+Plymouth,Gran Fury,Sedan
+Plymouth,Reliant,Sedan
+Polestar,2,Sedan
+Pontiac,6000,Sedan
+Pontiac,Grand Prix,Sedan
+Pontiac,Phoenix,Sedan
+Porsche,928,Sedan
+Rolls-Royce,Brooklands/Turbo R,Sedan
+Rolls-Royce,Eight/Mulsan/Mulsanne,Sedan
+Rolls-Royce,Flying Spur,Sedan
+Rolls-Royce,Silver Dawn,Sedan
+Rolls-Royce,Silver Seraph,Sedan
+Rolls-Royce,Silver Spirit II/Silver Spur,Sedan
+Rolls-Royce,Silver Spirit III/Spur III,Sedan
+Rolls-Royce,Silver Spirit/Silver Spur,Sedan
+Rolls-Royce,Silver Spirit/Spur/Mulsanne,Sedan
+Rolls-Royce,Silver Spur,Sedan
+Rolls-Royce,Silver Spur/Silver Dawn,Sedan
+Rolls-Royce,Spirit III/Spur III/Dawn,Sedan
+Rolls-Royce,Wraith,Sedan
+Roush Performance,Mustang,Sedan
+Saab,5-Sep,Sedan
+Saturn,Aura,Sedan
+Saturn,L100/200,Sedan
+Saturn,L300,Sedan
+Saturn,LS,Sedan
+Scion,iM,Sedan
+Subaru,Impreza,Sedan
+Suzuki,Verona,Sedan
+Tesla,Model 3,Sedan
+Texas Coach Company,500SE,Sedan
+Texas Coach Company,500SEL,Sedan
+Toyota,Crown,Sedan
+Toyota,Prius Prime,Sedan
+Volvo,740/760,Sedan
+Volvo,850,Sedan
+Volvo,940,Sedan
+Volvo,S70,Sedan
+Volvo,S80,Sedan
+Audi,RS,SUV
+Buick,Century Estate Wagon,SUV
+Isuzu,Oasis,SUV
+Kia,Rondo,SUV
+Lexus,RX450H,SUV
+Mazda,5,SUV
+Mercedes-Benz,300,SUV
+Mercedes-Benz,GLA-Class,SUV
+Mercedes-Benz,GLB-Class,SUV
+Nissan,Altra EV,SUV
+Nissan,Murano,SUV
+Oldsmobile,Cutlass Cruiser,SUV
+Peugeot,505,SUV
+Plymouth,Reliant,SUV
+Rolls-Royce,Cullinan,SUV
+Saab,5-Sep,SUV
+Saturn,LW,SUV
+Subaru,Legacy/Outback,SUV
+Toyota,Prius v,SUV
+Volvo,240,SUV
+Volvo,V70,SUV
+Volvo,V90,SUV
+Audi,100,SUV
+Audi,200,SUV
+Buick,Century Wagon,SUV
+Buick,Electra Estate Wagon,SUV
+Buick,Estate Wagon,SUV
+Buick,LeSabre/Electra Wagon,SUV
+CX Automotive,Cxestate,SUV
+Eagle,Medallion,SUV
+Eagle,Renault Medallion,SUV
+Eagle,Summit,Van
+Import Trade Services,ITS 200TE,SUV
+Import Trade Services,ITS 230TE,SUV
+J.K. Motors,300TE MERC BENZ,SUV
+J.K. Motors,MERC BENZ 300TE,SUV
+Mcevoy Motors,240 DL/240 GL Wagon,SUV
+Mcevoy Motors,740 GLE Wagon,SUV
+Mercedes-Benz,230,SUV
+Mitsubishi,Expo,SUV
+Oldsmobile,Ciera,SUV
+Oldsmobile,Custom Cruiser,SUV
+Peugeot,405,SUV
+Pontiac,Safari,SUV
+Volvo,740/760,SUV
+Volvo,850,SUV
+Wallace Environmental,Wetl 300,SUV
+Alfa Romeo,GT,Sedan
+Alfa Romeo,GTV,Sedan
+Aston Martin,DB-7 GT,Sedan
+Aston Martin,DB-7 Vantage,Sedan
+Aston Martin,DB11,Sedan
+Aston Martin,DB12 V8,Sedan
+Aston Martin,DB7,Sedan
+Aston Martin,DB9,Sedan
+Aston Martin,DBS,Sedan
+Aston Martin,Virage,Sedan
+Audi,Cabriolet,Sedan
+Audi,TT Coupe,Sports Sedan
+Avanti Motor Corporation,Avanti II,Sedan
+Bentley,Continental Supersports,Sports Sedan
+Chevrolet,Sprint,Sedan
+Dacia,Coupe,Sedan
+Dacia,Sedan,Sedan
+Excalibur Autos,Phaeton,Sedan
+Ferrari,3.2 Mondial/Cabriolet,Sedan
+Ferrari,California,Sedan
+Ferrari,California T,Sedan
+Ferrari,GTC4Lusso,Sedan
+Ferrari,Mondial,Sedan
+Ferrari,Mondial/Cabriolet,Sedan
+Ferrari,Portofino,Sedan
+Ferrari,Roma,Sedan
+Fiat,500,Sedan
+Fiat,500e,Sedan
+Jaguar,XK,Sedan
+Jaguar,XK8,Sedan
+Jaguar,XKR,Sedan
+Lexus,RX400H,SUV
+Lexus,RX350,SUV
+Lotus,Evora,Sedan
+MINI,Cooper,Sedan
+MINI,MiniE,Sedan
+Maserati,222E,Sedan
+Maserati,225,Sedan
+Maserati,Biturbo,Sedan
+Mercedes-Benz,CLK-Class,Sedan
+Mercedes-Benz,SL-Class,Sedan
+Mercury,Capri,Sedan
+Mitsubishi,Eclipse,Sedan
+Nissan,240SX,Sedan
+Nissan,NX,Sedan
+Polestar,1,Sedan
+Pontiac,Firefly,Sedan
+Porsche,924,Sedan
+Porsche,944,Sedan
+Porsche,Carrera 2 Cabriolet,Sedan
+Porsche,Carrera 2 Cabriolet Kit,Sedan
+Porsche,Carrera 2 Coupe,Sedan
+Porsche,Carrera 2 Coupe Kit,Sedan
+Porsche,Carrera 2 S Cabriolet,Sedan
+Porsche,Carrera 2 S Coupe,Sedan
+Porsche,Carrera 4 Cabriolet,Sedan
+Porsche,Carrera 4 Cabriolet Kit,Sedan
+Porsche,Carrera 4 Coupe,Sedan
+Porsche,Carrera 4 S,Sedan
+Porsche,Carrera 4 S Cabriolet,Sedan
+Porsche,Carrera 4 S Cabriolet Kit,Sedan
+Porsche,Carrera 4 S Coupe,Sedan
+Porsche,Carrera 4 S Kit,Sedan
+Porsche,Carrera 4 S Targa,Sedan
+Porsche,Carrera 4 Targa,Sedan
+Porsche,New 911 Carrera,Sports Sedan
+Porsche,Targa,Sedan
+Porsche,Turbo,Sedan
+Porsche,Turbo 4 911,Sports Sedan
+Porsche,Turbo 4 911 Cab,Sports Sedan
+Porsche,Turbo 4 911 Cab Kit,Sports Sedan
+Porsche,Turbo 4 911 Kit,Sports Sedan
+Porsche,Turbo 4 911 S,Sports Sedan
+Porsche,Turbo 4 911 Turbo,Sports Sedan
+Porsche,Turbo 4 911 Turbo Cab S,Sports Sedan
+Porsche,Turbo Kit,Sedan
+Qvale,Detomaso Mangusta,Sedan
+Scion,FR-S,Sedan
+Scion,iQ,Sedan
+Spyker,C8,Sedan
+Subaru,BRZ,Sedan
+Suzuki,Forsa,Sedan
+Suzuki,SA 310,Sedan
+Toyota,86,Sedan
+Toyota,Celica,Sedan
+Toyota,GR 86,Sedan
+Toyota,Paseo,Sedan
+Toyota,Starlet,Sedan
+Toyota,Supra,Sedan
+Volkswagen,Cabriolet,Sedan
+Yugo,GV Plus/GV/Cabrio,Sedan
+Yugo,Gy/yugo GVX,Sedan
+Buick,Terraza,Van
+Chevrolet,Uplander,Van
+Chevrolet,Venture,Van
+Chrysler,Pacifica,Van
+Chrysler,Town Country,Van
+Chrysler,Grand Voyager,Van
+Chrysler,Voyager,Van
+Chrysler,Voyager,Van
+Dodge,Caravan,Van
+Dodge,Grand Caravan,Van
+Ford,Freestar,Van
+Ford,Postal Vehicle,Van
+Ford,Windstar,Van
+Honda,Odyssey,Van
+Hyundai,Entourage,Van
+Kia,Carnival,Van
+Kia,Sedona,Van
+Mazda,5,Van
+Mazda,MPV,Van
+Mercury,Monterey,Van
+Mercury,Villager,Van
+Nissan,Quest,Van
+Oldsmobile,Silhouette,Van
+Plymouth,Voyager/Grand Voyager,Van
+Pontiac,Montana,Van
+Pontiac,Monterey,Van
+Pontiac,Trans Sport/Montana,Van
+Ram,C/V,Van
+Saturn,Relay,Van
+Toyota,Sienna,Van
+Volkswagen,Eurovan,Van
+Volkswagen,Routan,Van
+Mazda,B Pickup,Pickup Truck
+Ford,Courier,Pickup Truck
+Ford,Ranger,Pickup Truck
+GMC,Sonoma,Pickup Truck
+Jeep,Scrambler,Pickup Truck
+Chevrolet,C10,Pickup Truck
+Mitsubishi,Truck,Pickup Truck
+Nissan,Hardbody,Pickup Truck
+Nissan,Truck,Pickup Truck
+PAS Inc - GMC,Pas-Syclone,Pickup Truck
+"PAS, Inc",Pas-Syclone,Pickup Truck
+Subaru,Brat,Pickup Truck
+Toyota,Tacoma,Pickup Truck
+Toyota,Truck/T100,Pickup Truck
+Chevrolet,Colorado,Pickup Truck
+Chevrolet,C1500,Pickup Truck
+Ford,Maverick,Pickup Truck
+GMC,Canyon,Pickup Truck
+Honda,Ridgeline,Pickup Truck
+Chevrolet,C20,Pickup Truck
+Isuzu,i-290 Extended Cab,Pickup Truck
+Isuzu,i-370 Crew Cab,Pickup Truck
+Isuzu,i-370 Extended Cab,Pickup Truck
+Chevrolet,C2500,Pickup Truck
+Nissan,Frontier,Pickup Truck
+Suzuki,Equator,Pickup Truck
+GMC,Caballero,Pickup Truck
+Import Foreign Auto Sales Inc,1fas 410,Pickup Truck
+Jeep,Comanche,Pickup Truck
+Dodge,D100/D150,Pickup Truck
+Suzuki,SJ 410,Pickup Truck
+Acura,MDX,SUV
+Acura,RDX,SUV
+Alfa Romeo,Stelvio,SUV
+Audi,Q4 e-tron,SUV
+BMW,X3,SUV
+BYD,e6,SUV
+Buick,Encore,SUV
+Buick,Envision,SUV
+Cadillac,LYRIQ,SUV
+Cadillac,XT4,SUV
+Cadillac,XT5,SUV
+Cadillac,XT6,SUV
+Chevrolet,Blazer,SUV
+Chevrolet,Captiva,SUV
+Chevrolet,Equinox,SUV
+Chevrolet,Trailblazer,SUV
+Chevrolet,Trax,SUV
+Dodge,Journey,SUV
+Fiat,500 X,SUV
+Ford,EcoSport,SUV
+Ford,Edge,SUV
+Ford,Escape,SUV
+Ford,Mustang Mach-E,SUV
+GMC,Terrain,SUV
+Genesis,GV60,SUV
+Genesis,GV80,SUV
+Honda,CR-V,SUV
+Honda,Crosstour,SUV
+Honda,HR-V,SUV
+Honda,Passport,SUV
+Honda,Pilot,SUV
+Hyundai,Ioniq 5,SUV
+Hyundai,Kona,SUV
+Hyundai,Nexo,SUV
+Hyundai,Palisade,SUV
+Hyundai,Santa Cruz,SUV
+Hyundai,Santa Fe,SUV
+Hyundai,Tucson,SUV
+Hyundai,Venue,SUV
+Infiniti,FX37,SUV
+Infiniti,JX35,SUV
+Infiniti,QX50,SUV
+Infiniti,QX60,SUV
+Infiniti,QX70,SUV
+Jeep,Cherokee,SUV
+Jeep,Compass,SUV
+Jeep,Patriot,SUV
+Jeep,Renegade,SUV
+Kia,EV6,SUV
+Kia,Niro,SUV
+Kia,Seltos,SUV
+Kia,Sorento,SUV
+Kia,Sportage,SUV
+Kia,Telluride,SUV
+Lexus,RX350,SUV
+Lexus,RX330,SUV
+Lincoln,Corsair,SUV
+Lincoln,MKC,SUV
+Lincoln,MKT,SUV
+Lincoln,MKX,SUV
+Lincoln,Nautilus,SUV
+Mazda,CX-30,SUV
+Mazda,CX-5,SUV
+Mazda,CX-9,SUV
+Mercedes-Benz,EQB,SUV
+Mercedes-Benz,GLC-Class,SUV
+Mercedes-Benz,GLK-Class,SUV
+Mitsubishi,Eclipse Cross,SUV
+Mitsubishi,Outlander,SUV
+Nissan,Pathfinder,SUV
+Nissan,Rogue,SUV
+Nissan,Xterra,SUV
+Suzuki,Grand Vitara,SUV
+Tesla,Model Y,SUV
+Toyota,Corolla Cross,SUV
+Toyota,FJ Cruiser,SUV
+Toyota,Highlander,SUV
+Toyota,RAV4,SUV
+Toyota,Venza,SUV
+Toyota,bZ4X,SUV
+Volkswagen,Atlas,SUV
+Volkswagen,ID.4,SUV
+Volkswagen,Taos,SUV
+Volkswagen,Tiguan,SUV
+Volvo,C40,SUV
+Volvo,V60,SUV
+Volvo,XC40,SUV
+Volvo,XC60,SUV
+Volvo,XC70,SUV
+Acura,ZDX,SUV
+Alfa Romeo,Tonale eAWD,SUV
+Audi,Q3,SUV
+Audi,Q5,SUV
+Audi,SQ5,SUV
+BMW,X1,SUV
+BMW,X2,SUV
+BMW,X4,SUV
+Dodge,Hornet,SUV
+Fiat,500,SUV
+Ford,Bronco,SUV
+Ford,Bronco Sport,SUV
+Genesis,GV70,SUV
+Infiniti,FX50,SUV
+Infiniti,QX55,SUV
+Jaguar,E-Pace,SUV
+Jaguar,F-Pace,SUV
+Jaguar,I-Pace,SUV
+Jeep,Wrangler,SUV
+Land Rover,Discovery,SUV
+Land Rover,Discovery Sport,SUV
+Land Rover,Evoque,SUV
+Land Rover,LR2,SUV
+Land Rover,Range Rover,SUV
+MINI,Countryman,SUV
+Maserati,Grecale,SUV
+Mazda,CX-50,SUV
+Mercedes-Benz,GLE-Class,SUV
+Porsche,Macan,SUV
+Subaru,Crosstrek,SUV
+Subaru,Forester,SUV
+Subaru,Outback,SUV
+Subaru,Solterra,SUV
+Subaru,Tribeca,SUV
+Toyota,RAV4 Prime,SUV
+Audi,Allroad,SUV
+Buick,Envista,SUV
+CX Automotive,XM,SUV
+Chevrolet,Bolt EUV,SUV
+Chevrolet,Bolt EV,SUV
+Chevrolet,Optra,SUV
+Chevrolet,Sonic,SUV
+Dacia,Station Wagon,SUV
+Daewoo,Nubira,SUV
+Dodge,Caliber,SUV
+Fiat,500 L,SUV
+Honda,Fit,SUV
+Infiniti,EX35,SUV
+Infiniti,EX37,SUV
+Kia,Soul,SUV
+Lamborghini,Urus,SUV
+Mitsubishi,Space Wagon,SUV
+Nissan,ARIYA,SUV
+Nissan,Cube,SUV
+Nissan,Juke,SUV
+Nissan,Rogue Sport,SUV
+Pontiac,Vibe,SUV
+Renault,18i/Wagon/Sportwagon,SUV
+Saab,2-Sep,SUV
+Saab,3-Sep,SUV
+Saturn,SW,SUV
+Scion,xB,SUV
+Subaru,Wagon,SUV
+Suzuki,Forenza,SUV
+Toyota,Matrix,SUV
+Volkswagen,Golf/GTI,SUV
+Volvo,960 Wagon/V90,SUV
+Volvo,V40,SUV
+Volvo,V50,SUV
+Azure Dynamics,Transit Connect Electric Van/Wagon,SUV
+Buick,Coachbuilder Wagon,SUV
+Cadillac,Commercial Chassis,SUV
+Cadillac,XTS Hearse,SUV
+Cadillac,XTS Limo,SUV
+Chevrolet,City Express Cargo Van,SUV
+Chevrolet,Lumina/APV Minivan,SUV
+Chevrolet,S10 Cab Chassis,SUV
+Chevrolet,S10 Utility Body,SUV
+Chevrolet,Silverado,Pickup Truck
+Chevrolet,Suburban,SUV
+Chevrolet,Tahoe,SUV
+Chevrolet,Tracker,SUV
+Dodge,Caravan C/V,Van
+Dodge,Ram Van,Van
+Dodge,Ramcharger,SUV
+Ford,Bronco II,SUV
+Ford,Expedition,SUV
+Ford,Explorer,SUV
+Ford,Transit Connect,SUV
+GMC,Jimmy,SUV
+GMC,S15 Cab Chassis,SUV
+GMC,S15 Utility Body,SUV
+GMC,Suburban,SUV
+GMC,Yukon,SUV
+General Motors,Coachbuilder Wagon,SUV
+Geo,Tracker,SUV
+Grumman Allied Industries,LLV,SUV
+Grumman Olson,Kubvan,SUV
+Isuzu,Amigo,SUV
+Isuzu,Rodeo,SUV
+Jeep,Cherokee/Wagoneer,SUV
+Jeep,Grand Cherokee,SUV
+Lincoln,Navigator,SUV
+Mercedes-Benz,Metris Cargo,SUV
+Mercedes-Benz,Metris Passenger,SUV
+Mercury,Mountaineer,SUV
+Mitsubishi,Montero Sport,SUV
+Mitsubishi,Nativa,SUV
+Mobility Ventures LLC,MV-1,SUV
+Nissan,Axxess,SUV
+Nissan,NV200 Cargo Van,SUV
+Nissan,NV200 NYC Taxi,SUV
+Plymouth,Voyager,SUV
+Plymouth,Voyager/Grand Voyager,SUV
+Ram,Promaster City,SUV
+S and S Coach Company  E.p. Dutton,Funeral Coach,SUV
+Superior Coaches Div E.p. Dutton,Funeral Coach,SUV
+Suzuki,Sidekick,SUV
+Toyota,4Runner,SUV
+Toyota,Cab Chassis,SUV
+VPG,MV-1,SUV
+Vixen Motor Company,21 TD,SUV
+Acura,SLX,SUV
+American Motors Corporation,Eagle,SUV
+Dodge,Durango,SUV
+Infiniti,QX4,SUV
+Isuzu,Trooper,SUV
+Isuzu,Vehicross,SUV
+Jeep,CJ,SUV
+Jeep,Grand Wagoneer,SUV
+Lexus,RX300,SUV
+Mercedes-Benz,ML-Class,SUV
+Mitsubishi,Montero,SUV
+Oldsmobile,Bravada,SUV
+Subaru,Sedan,SUV
+Suzuki,SJ 410,SUV
+Toyota,Land Cruiser,SUV
+Vinfast,VF 8,SUV
+Vinfast,VF 9,SUV
+Buick,Funeral Coach/Hearse,SUV
+Chevrolet,Coachbuilder Wagon,SUV
+Chevrolet,Lumina Minivan,SUV
+Chevrolet,Postal Cab Chassis,SUV
+Daihatsu,Rocky,SUV
+Dodge,D250 Cab Chassis,SUV
+Dodge,D250,Pickup Truck
+Dodge,Dakota Cab Chassis,SUV
+Dodge,Raider,SUV
+"E. P. Dutton, Inc.",Funeral Coach,SUV
+Eagle,Wagon,SUV
+Federal Coach,Heritage,SUV
+Federal Coach,Lincoln Stratford,SUV
+Federal Coach,Renaissance,SUV
+Jeep,Wagoneer,SUV
+Laforza Automobile Inc,Laforza,SUV
+Land Rover,Defender,SUV
+Mazda,Navajo,SUV
+PAS Inc - GMC,Pas-typhoon,SUV
+"PAS, Inc",Pas-Typhoon,SUV
+Porsche,Cayenne,SUV
+Suzuki,Samurai,SUV
+Volga Associated Automobile,Niva,SUV
+Buick,Enclave,SUV
+Buick,Rainier,SUV
+Buick,Rendezvous,SUV
+Cadillac,Escalade,SUV
+Cadillac,SRX,SUV
+Chevrolet,Avalanche,SUV
+Chevrolet,HHR,SUV
+Chevrolet,Traverse,SUV
+Chrysler,Aspen,SUV
+Chrysler,PT Cruiser,SUV
+Dodge,Magnum,SUV
+Dodge,Nitro,SUV
+Ford,Flex,SUV
+Ford,Freestyle,SUV
+GMC,Acadia,SUV
+GMC,Envoy,SUV
+Honda,Element,SUV
+Hyundai,Veracruz,SUV
+Infiniti,FX35,SUV
+Infiniti,QX56,SUV
+Isuzu,Ascender,SUV
+Isuzu,Axiom,SUV
+Jeep,Commander,SUV
+Jeep,Liberty,SUV
+Jeep,Liberty/Cherokee,SUV
+Kia,Borrego,SUV
+Lincoln,Aviator,SUV
+Mazda,CX-7,SUV
+Mazda,Tribute,SUV
+Mercedes-Benz,R-Class,SUV
+Mercury,Mariner,SUV
+Mitsubishi,Endeavor,SUV
+Nissan,Armada,SUV
+Pontiac,Aztek,SUV
+Pontiac,Torrent,SUV
+Saab,4-Sep,SUV
+Saturn,Outlook,SUV
+Saturn,Vue,SUV
+Suzuki,Vitara,SUV
+Suzuki,XL7,SUV
+Toyota,Sequoia,SUV
+Volvo,XC90,SUV
+Audi,Q7,SUV
+BMW,ActiveHybrid X6,SUV
+BMW,X5,SUV
+BMW,X6,SUV
+Hummer,H3,SUV
+Infiniti,FX45,SUV
+Jeep,Wrangler/TJ,SUV
+Land Rover,Freelander,SUV
+Land Rover,LR3,SUV
+Land Rover,LR4,SUV
+Lexus,RC F,Sedan
+Mercedes-Benz,G-Class,SUV
+Mercedes-Benz,GL-Class,SUV
+Saab,7-Sep,SUV
+Subaru,Baja,SUV
+Volkswagen,Touareg,SUV
+Volvo,V70 XC,SUV
+Dodge,D250,SUV
+Dodge,Dakota,Pickup Truck
+Chevrolet,El Camino,Pickup Truck
+Jeep,Gladiator,Pickup Truck
+Isuzu,Hombre,Pickup Truck
+Jeep,J-10,Pickup Truck
+Jeep,J-20,Pickup Truck
+Chevrolet,K10,Pickup Truck
+Chevrolet,K1500,Pickup Truck
+Chevrolet,K20,Pickup Truck
+Chevrolet,K2500,Pickup Truck
+Isuzu,Pickup,Pickup Truck
+Nissan,Pickup,Pickup Truck
+Ford,F150,Pickup Truck
+Ford,F250,Pickup Truck
+GMC,C2500 Sierra,Pickup Truck
+GMC,K2500 Sierra,Pickup Truck
+Nissan,Pickup,SUV
+GMC,Sierra,Pickup Truck
+GMC,Pickup,Pickup Truck
+GMC,Pickup,Van
+Chevrolet,Pickup 2500,Pickup Truck
+Dodge,Power Ram 50,Pickup Truck
+Dodge,Power Ram 50 ,Pickup Truck
+Chevrolet,R10,Pickup Truck
+Chevrolet,R20 (C20) Pickup,Pickup Truck
+Mitsubishi,Raider,Pickup Truck
+Dodge,Ram 1500,Pickup Truck
+Isuzu,i-280 Extended Cab,Pickup Truck
+Lincoln,Blackwood,Pickup Truck
+Lincoln,Mark LT,Pickup Truck
+Dodge,Ram 2500,Pickup Truck
+Dodge,Ram 50,Pickup Truck
+Nissan,Titan,Pickup Truck
+Ram,1500,Pickup Truck
+Roush Performance,F150,Pickup Truck
+Saleen Performance,F150 Supercharged,Pickup Truck
+Saleen Performance,S331 Family,Pickup Truck
+"Tecstar, LP",Foose F150,Pickup Truck
+Toyota,Tundra,Pickup Truck
+Dodge,Rampage,Pickup Truck
+Chevrolet,S10,Pickup Truck
+GMC,S15,Pickup Truck
+Ford,F-150 Lightning,Pickup Truck
+GMC,Hummer EV,Pickup Truck
+Chevrolet,SSR,Pickup Truck
+Hummer,H3T,Pickup Truck
+Chevrolet,T10 (S10),Pickup Truck
+Isuzu,i-350 Crew Cab,Pickup Truck
+Chevrolet,V10 (K10),Pickup Truck
+Lordstown,Endurance,Pickup Truck
+Mahindra,TR40,Pickup Truck
+Chevrolet,V20,Pickup Truck
+Dodge,W100/W150,Pickup Truck
+Rivian,R1T,Pickup Truck
+Dodge,W250 ,Pickup Truck
+Honda,Prologue,SUV
+Infiniti,QX80,SUV
+Kia,EV9,SUV
+Lexus,RC,Sedan
+Mercedes-Benz,EQE,SUV
+Mercedes-Benz,EQS,SUV
+Toyota,Grand Highlander,SUV
+Aston Martin,DBX 707,SUV
+Aston Martin,DBX V8,SUV
+Audi,Q8,SUV
+Audi,Q8 e-tron,SUV
+Audi,RS Q8,SUV
+Audi,SQ7,SUV
+Audi,SQ8,SUV
+Audi,SQ8 e-tron,SUV
+Audi,e-tron,SUV
+Audi,e-tron S,SUV
+BMW,M,SUV
+BMW,X7,SUV
+BMW,XM,SUV
+BMW,iX,SUV
+Bentley,Bentayga,SUV
+Ferrari,Purosangue,SUV
+Fisker,Ocean,SUV
+GMC,Hummer EV,SUV
+INEOS Automotive,Grenadier,SUV
+Maserati,Levante,SUV
+Mazda,CX-90,SUV
+Mercedes-Benz,GLS-Class,SUV
+Rivian,R1S,SUV
+Subaru,Ascent,SUV
+Tesla,Model X,SUV
+Acura,RSX,Sedan
+Alfa Romeo,Milano,Sedan
+Aston Martin,Lagonda,Sedan
+Aston Martin,Rapide,Sedan
+Aston Martin,Saloon/Vantage/Volante,Sedan
+Aston Martin,Virage/Volante,Sedan
+Audi,4000,Sedan
+Audi,Coupe GT,Sedan
+Audi,Coupe quattro,Sports Sedan
+Audi,Quattro,Sports Sedan
+Audi,RS 3,Sedan
+Audi,RS 5,Sedan
+Audi,S3,Sedan
+Audi,TT RS,Sports Sedan
+Audi,TTS,Sports Sedan
+Audi,TTS Coupe,Sports Sedan
+BMW,1 Series,Sedan
+BMW,Active E,Sedan
+BMW,i3,Sedan
+BMW,i4,Sedan
+BMW,i8,Sedan
+Bentley,Continental Supersports,Sports Sedan
+Buick,Cascada,Sedan
+CODA Automotive,CODA,Sedan
+Cadillac,ELR,Sedan
+Chevrolet,Chevette,Sedan
+Chevrolet,Metro,Sedan
+Chevrolet,Spark,Sedan
+Chevrolet,Spectrum,Sedan
+Chrysler,Conquest,Sedan
+Chrysler,Laser,Sedan
+Chrysler,Laser/Daytona,Sedan
+Daihatsu,Charade,Sedan
+Dodge,Colt,Sedan
+Dodge,Conquest,Sedan
+Dodge,Daytona,Sedan
+Dodge,Stealth,Sedan
+Eagle,Talon,Sedan
+Ferrari,456 MGT/MGA,Sedan
+Ferrari,Ferrari 456,Sedan
+Ferrari,Ferrari Mondial T/Cabriolet,Sedan
+Ferrari,Mondial T/Cabriolet,Sedan
+Fisker,Karma,Sedan
+Ford,Aspire,Sedan
+Ford,Festiva,Sedan
+Ford,Mustang,Sedan
+Geo,Metro,Sedan
+Geo,Spectrum,Sedan
+Geo,Storm,Sedan
+Honda,Prelude,Sedan
+Hyundai,Excel,Sedan
+Hyundai,Pony Excel,Sedan
+Hyundai,Scoupe,Sedan
+Hyundai,Tiburon,Sedan
+Import Trade Services,ITS 190E,Sedan
+Import Trade Services,ITS 190E 2.0,Sedan
+Import Trade Services,ITS 190E 2.3,Sedan
+Import Trade Services,ITS 230CE,Sedan
+Infiniti,J30,Sedan
+Infiniti,M30,Sedan
+Infiniti,Q60,Sedan
+Isuzu,750C/I-Mark,Sedan
+Isuzu,I-Mark,Sedan
+Isuzu,Impulse,Sedan
+Jaguar,XJRS,Sedan
+Karma,GS-6,Sedan
+Karma,Revero,Sedan
+Lexus,NX,SUV
+Lexus,LX470,SUV
+Lexus,LX450,SUV
+Maserati,430,Sedan
+Maserati,Coupe Cambiocorsa/Coupe GT,Sedan
+Maserati,Coupe Cambiocorsa/GT/G-Sport,Sedan
+Maserati,Coupe and Gransport,Sedan
+Maserati,GranTurismo,Sedan
+Maserati,Grancabrio,Sedan
+Mazda,GLC,Sedan
+Mazda,MX-3,Sedan
+Mazda,MX-6,Sedan
+Mazda,RX-8,Sedan
+Mercedes-Benz,A-Class,Sedan
+Mercedes-Benz,CLE-Class,Sedan
+Mitsubishi,3000 GT,Sedan
+Mitsubishi,3000 GT Spyder,Sedan
+Mitsubishi,Cordia,Sedan
+Mitsubishi,Starion,Sedan
+Mitsubishi,Tredia,Sedan
+Mitsubishi,i-MiEV,Sedan
+Nissan,200SX,Sedan
+Nissan,300ZX,Sedan
+Nissan,GT-R,Sedan
+Nissan,Pulsar NX,Sedan
+Nissan,Pulsar/Pulsar-NX,Sedan
+Nissan,Sentra/200SX,Sedan
+Plymouth,Colt,Sedan
+Plymouth,Conquest,Sedan
+Plymouth,Laser,Sedan
+Plymouth,Turismo,Sedan
+Pontiac,1000,Sedan
+Pontiac,Firebird/Trans Am/Formula,Sedan
+Pontiac,G5,Sedan
+Pontiac,Sunburst,Sedan
+Quantum Technologies,Chevrolet Cavalier,Sedan
+Renault,18i/Wagon/Sportwagon,Sedan
+Renault,Fuego,Sedan
+Rolls-Royce,Azure,Sedan
+Roush Performance,Stage 3 Mustang,Sedan
+Saab,Convertible,Sedan
+Saleen,Mustang,Sedan
+Saleen,SSC,Sedan
+Saleen Performance,S281 Family,Sedan
+Saturn,SC,Sedan
+Scion,iA,Sedan
+Scion,xA,Sedan
+Scion,xD,Sedan
+Subaru,Hatchback,Sedan
+Subaru,Justy,Sedan
+Subaru,RX Turbo,Sedan
+Subaru,SVX,Sedan
+Subaru,XT,Sedan
+Suzuki,Esteem,Sedan
+Suzuki,SW,Sedan
+Toyota,Tercel,Sedan
+Volkswagen,Cabrio,Sedan
+Volkswagen,Corrado,Sedan
+Volkswagen,Eos,Sedan
+Volkswagen,Fox,Sedan
+Volkswagen,Scirocco,Sedan
+Wallace Environmental,Wetl 190E,Sedan
+Wallace Environmental,Wetl 850I,Sedan
+Yugo,GV/GVX,Sedan
+Acura,NSX,Sports Sedan
+Alfa Romeo,4C,Sports Sedan
+Alfa Romeo,Spider,Sports Sedan
+Aston Martin,DB AR1,Sports Sedan
+Aston Martin,DB7,Sports Sedan
+Aston Martin,DBS,Sports Sedan
+Aston Martin,Valour,Sports Sedan
+Aston Martin,Vanquish,Sports Sedan
+Aston Martin,Vantage,Sports Sedan
+Aston Martin,Vantage Manual,Sports Sedan
+Audi,R8,Sports Sedan
+Audi,R8 Spyder,Sports Sedan
+Audi,TT,Sports Sedan
+Audi,TT Roadster,Sports Sedan
+Aurora Cars Ltd,Aurora,Sports Sedan
+Autokraft Limited,A.C.MARK IV,Sports Sedan
+Autokraft Limited,A.C.Mkiv,Sports Sedan
+BMW,M,Sports Sedan
+BMW,Z3,Sports Sedan
+BMW,Z4,Sports Sedan
+BMW,Z8,Sports Sedan
+BMW,i8,Sports Sedan
+BMW Alpina,Roadster,Sports Sedan
+Bentley,Continental Supersports Convertible,Sports Sedan
+Rolls-Royce,Corniche/Continental,Sports Sedan
+Bertone,X1/9,Sports Sedan
+Bugatti,Chiron,Sports Sedan
+Bugatti,Divo,Sports Sedan
+Bugatti,Veyron,Sports Sedan
+Buick,Reatta,Sports Sedan
+CX Automotive,CX,Sports Sedan
+Cadillac,Allante,Sports Sedan
+Cadillac,XLR,Sports Sedan
+Cadillac,XLR-V,Sports Sedan
+Chevrolet,Corvette,Sports Sedan
+Chrysler,Crossfire,Sports Sedan
+Chrysler,Prowler,Sports Sedan
+Chrysler,QC Car,Sports Sedan
+Chrysler,TC,Sports Sedan
+Consulier Industries Inc,Consulier GTP,Sports Sedan
+Dodge,Viper,Sports Sedan
+Environmental Rsch and Devp Corp,ERD 1,Sports Sedan
+Evans Automobiles,Series 1,Sports Sedan
+Ferrari,296 GTB,Sports Sedan
+Ferrari,296 GTB Spider,Sports Sedan
+Ferrari,308,Sports Sedan
+Ferrari,328 GTS/GTB,Sports Sedan
+Ferrari,348 TB/TS,Sports Sedan
+Ferrari,360 Modena/Modena F1,Sports Sedan
+Ferrari,360 Modena/Spider,Sports Sedan
+Ferrari,360 Modena/Spider/Challenge,Sports Sedan
+Ferrari,458 Italia,Sports Sedan
+Ferrari,458 Speciale,Sports Sedan
+Ferrari,458 Spider,Sports Sedan
+Ferrari,488 GTB,Sports Sedan
+Ferrari,488 Pista,Sports Sedan
+Ferrari,488 Pista Spider,Sports Sedan
+Ferrari,488 Spider,Sports Sedan
+Ferrari,550 Maranello,Sports Sedan
+Ferrari,550 Maranello/Barchetta,Sports Sedan
+Ferrari,575,Sports Sedan
+Ferrari,575 M Maranello,Sports Sedan
+Ferrari,575 M Maranello and Superamerica,Sports Sedan
+Ferrari,599 GTB,Sports Sedan
+Ferrari,599 GTB Fiorano,Sports Sedan
+Ferrari,599 GTO,Sports Sedan
+Ferrari,599 SA Aperta,Sports Sedan
+Ferrari,812 Competizione,Sports Sedan
+Ferrari,812 GTS,Sports Sedan
+Ferrari,812 Superfast,Sports Sedan
+Ferrari,California,Sports Sedan
+Ferrari,Daytona SP3,Sports Sedan
+Ferrari,Enzo Ferrari,Sports Sedan
+Ferrari,F 40,Sports Sedan
+Ferrari,F12,Sports Sedan
+Ferrari,F12 Berlinetta,Sports Sedan
+Ferrari,F12 tdf,Sports Sedan
+Ferrari,F141,Sports Sedan
+Ferrari,F355/355 F1,Sports Sedan
+Ferrari,F40,Sports Sedan
+Ferrari,F430,Sports Sedan
+Ferrari,F60 America,Sports Sedan
+Ferrari,F8 Spider,Sports Sedan
+Ferrari,F8 Tributo,Sports Sedan
+Ferrari,Ferrari 348 TB/TS,Sports Sedan
+Ferrari,Ferrari 348 TB/TS/Spider,Sports Sedan
+Ferrari,Ferrari 512 TR,Sports Sedan
+Ferrari,Ferrari 550 Maranello,Sports Sedan
+Ferrari,Ferrari F355,Sports Sedan
+Ferrari,Ferrari F355 Berlinetta/GTS,Sports Sedan
+Ferrari,Ferrari F355/355 F1,Sports Sedan
+Ferrari,Ferrari F50,Sports Sedan
+Ferrari,Ferrari F512M,Sports Sedan
+Ferrari,LaFerrari,Sports Sedan
+Ferrari,Monza SP1,Sports Sedan
+Ferrari,Monza SP2,Sports Sedan
+Ferrari,SF90 Spider,Sports Sedan
+Ferrari,SF90 Stradale,Sports Sedan
+Ferrari,SF90 Stradale Coupe,Sports Sedan
+Ferrari,Testarossa,Sports Sedan
+Fiat,124 Spider,Sports Sedan
+Ford,EXP,Sports Sedan
+Ford,GT,Sports Sedan
+Ford,Th!nk,Sports Sedan
+GMC,EV1,Sports Sedan
+Goldacre,Goldacre Limited,Sports Sedan
+Honda,CR-Z,Sports Sedan
+Honda,Del Sol,Sports Sedan
+Honda,S2000,Sports Sedan
+Import Trade Services,MB 300SL,Sports Sedan
+Isis Imports Ltd,Morgan Plus 8,Sports Sedan
+J.K. Motors,300SL,Sports Sedan
+J.K. Motors,300SL MERC BENZ,Sports Sedan
+J.K. Motors,Testarossa,Sports Sedan
+Jaguar,F-Type,Sports Sedan
+Jaguar,XJRS,Sports Sedan
+Jaguar,XJS,Sports Sedan
+Kenyon Corporation Of America,Kenyon 5.0 Cabrio,Sports Sedan
+Koenigsegg,Agera RS,Sports Sedan
+Koenigsegg,Regera,Sports Sedan
+Lamborghini,Aventador,Sports Sedan
+Lamborghini,Countach,Sports Sedan
+Lamborghini,Diablo,Sports Sedan
+Lamborghini,Gallardo,Sports Sedan
+Lamborghini,Huracan,Sports Sedan
+Lamborghini,Murcielago,Sports Sedan
+Lamborghini,Veneno,Sports Sedan
+Lexus,LX,SUV
+Lotus,Elan,Sports Sedan
+Lotus,Elise/Exige,Sports Sedan
+Lotus,Emira,Sports Sedan
+Lotus,Esprit,Sports Sedan
+MINI,Roadster,Sports Sedan
+Maserati,Biturbo Spyder,Sports Sedan
+Maserati,Karif,Sports Sedan
+Maserati,MC20,Sports Sedan
+Maserati,Q,Sports Sedan
+Maserati,Spyder,Sports Sedan
+Mazda,MX-5,Sports Sedan
+Mazda,MX-5 Miata,Sports Sedan
+Mazda,RX-7,Sports Sedan
+McLaren Automotive,540C Coupe,Sports Sedan
+McLaren Automotive,570GT,Sports Sedan
+McLaren Automotive,570S Coupe,Sports Sedan
+McLaren Automotive,570S Spider,Sports Sedan
+McLaren Automotive,600LT Coupe,Sports Sedan
+McLaren Automotive,600LT Spider,Sports Sedan
+McLaren Automotive,620R Coupe,Sports Sedan
+McLaren Automotive,650S Can-Am,Sports Sedan
+McLaren Automotive,650S Coupe,Sports Sedan
+McLaren Automotive,650S Spider,Sports Sedan
+McLaren Automotive,675LT Coupe,Sports Sedan
+McLaren Automotive,675LT Spider,Sports Sedan
+McLaren Automotive,720S Coupe,Sports Sedan
+McLaren Automotive,720S Spider,Sports Sedan
+McLaren Automotive,765LT Coupe,Sports Sedan
+McLaren Automotive,765LT Spider,Sports Sedan
+McLaren Automotive,Artura,Sports Sedan
+McLaren Automotive,Elva,Sports Sedan
+McLaren Automotive,GT,Sports Sedan
+McLaren Automotive,MP4-12C Coupe,Sports Sedan
+McLaren Automotive,MP4-12C Spider,Sports Sedan
+McLaren Automotive,MSO HS,Sports Sedan
+McLaren Automotive,P1,Sports Sedan
+McLaren Automotive,Sabre,Sports Sedan
+McLaren Automotive,Senna,Sports Sedan
+McLaren Automotive,Speedtail,Sports Sedan
+Mercedes-Benz,300,Sports Sedan
+Mercedes-Benz,380,Sports Sedan
+Mercedes-Benz,500,Sports Sedan
+Mercedes-Benz,560,Sports Sedan
+Mercedes-Benz,600,Sedan
+Mercedes-Benz,AMG GT,Sports Sedan
+Mercedes-Benz,SL-Class,Sports Sedan
+Mercedes-Benz,SLC-Class,Sports Sedan
+Mercedes-Benz,SLK-Class,Sports Sedan
+Mercedes-Benz,SLR,Sports Sedan
+Mercedes-Benz,SLS AMG,Sports Sedan
+Morgan,Plus Eight,Sports Sedan
+Nissan,350z,Sports Sedan
+Nissan,370Z,Sports Sedan
+Nissan,Hyper-Mini,Sports Sedan
+Nissan,Z,Sports Sedan
+Pagani,Huayra,Sports Sedan
+Pagani,Huayra Coupe,Sports Sedan
+Panos,Roadster,Sports Sedan
+Panoz Auto-Development,Panoz Roadster,Sports Sedan
+Panther Car Company Limited,Kallista,Sports Sedan
+Pininfarina,Spider,Sports Sedan
+Plymouth,Prowler,Sports Sedan
+Pontiac,Fiero,Sports Sedan
+Pontiac,Solstice,Sports Sedan
+Porsche,718,Sports Sedan
+Porsche,911,Sports Sedan
+Porsche,918 Spyder,Sports Sedan
+Porsche,968,Sports Sedan
+Porsche,Boxster,Sports Sedan
+Porsche,Carrera,Sports Sedan
+Porsche,Carrera 2 911 GT3,Sports Sedan
+Porsche,Carrera 4,Sports Sedan
+Porsche,Carrera GT,Sports Sedan
+Porsche,Cayman,Sports Sedan
+Porsche,Turbo 2 911 GT2,Sports Sedan
+Porsche,Turbo GT2,Sports Sedan
+RUF Automobile,RUF TURBO 12/CTR3,Sports Sedan
+RUF Automobile,RUFTURBO12/CTR3/CTR2017,Sports Sedan
+RUF Automobile,T12/CTR3/CTR Anniversary,Sports Sedan
+RUF Automobile,TURBO12/CTR3/CTR ANNIVERSARY,Sports Sedan
+Red Shift Ltd.,Delta 204T,Sports Sedan
+Ruf Automobile Gmbh,Ruf,Sports Sedan
+SRT,Viper,Sports Sedan
+Saturn,SKY,Sports Sedan
+Shelby,Mustang GT,Sports Sedan
+Spyker,C8,Sports Sedan
+Suzuki,X-90,Sports Sedan
+TVR Engineering Ltd,TVR 280i Convertible,Sports Sedan
+TVR Engineering Ltd,TVR 280i Coupe,Sports Sedan
+TVR Engineering Ltd,TVR 280i/350i Convertible,Sports Sedan
+TVR Engineering Ltd,TVR 280i/350i Coupe,Sports Sedan
+Texas Coach Company,500SL,Sports Sedan
+Toyota,GR Supra,Sports Sedan
+Toyota,MR2,Sports Sedan
+Vector,Avtech SC / M12,Sports Sedan
+Vector,W8,Sports Sedan
+Wallace Environmental,Wetl 500,Sports Sedan
+Wallace Environmental,Wetl 560,Sports Sedan
+Wallace Environmental,Wetl Testarossa,Sports Sedan
+smart,fortwo,Sports Sedan
+Chevrolet,Astro Cargo,Van
+Chevrolet,Astro Passenger,Van
+Chevrolet,Express Passenger,Van
+Chevrolet,G10/20 Van,Van
+Chevrolet,G30 Van,Van
+Chevrolet,Sport Van,Van
+Chevrolet,Van 1500/2500,Van
+Dodge,B150/B250 Van,Van
+Dodge,B150/B250 Wagon,Van
+Dodge,B1500/B2500 Van,Van
+Dodge,B1500/B2500 Wagon,Van
+Dodge,B350 Van,Van
+Dodge,B350 Wagon,Van
+Dodge,B3500 Van,Van
+Dodge,B3500 Wagon,Van
+Ford,Aerostar Van,Van
+Ford,Aerostar Wagon,Van
+Ford,E150 Club Wagon,Van
+Ford,E150 Econoline,Van
+Ford,E250 Econoline,Van
+Dodge,W250,Pickup Truck
+GMC,Rally,Van
+GMC,Safari,Van
+GMC,Safari Cargo,Van
+GMC,Safari Passenger,Van
+GMC,Savana Cargo,Van
+GMC,Savana Passenger,Van
+GMC,Vandura,Van
+Mitsubishi,Van,Van
+Mitsubishi,Wagon,Van
+Nissan,Van,Van
+Toyota,Previa,Van
+Toyota,Van,Van
+Volkswagen,Vanagon,Van
+Chevrolet,Express Cargo,Van
+Chevrolet,Van 15/25 Conversion,Van
+Chevrolet,Van 1500,Van
+Dodge,B1500 Van,Van
+Dodge,B2500 Van,Van
+Dodge,Ram Van 1500,Van
+Dodge,Ram Van 2500,Van
+Ford,E150 Van,Van
+Ford,E250 Van,Van
+Ford,E350 Van,Van
+Nissan,NV200 Cargo Van,Van
+Dodge,B1500 Wagon,Van
+Dodge,B2500 Wagon,Van
+Dodge,Ram Wagon 1500,Van
+Dodge,Ram Wagon 2500,Van
+Ford,E150 Wagon,Van
+Ford,E350 Wagon,Van
+Ford,Transit T150 Wagon,Van
+Lexus,LS460,Sedan
+Mercedes-Benz,C300,Sedan
+BMW,328i,Sedan
+Ford,F350,Pickup Truck
+Ford,Econoline E150,Van
+Ford,Econoline E250,Van
+Ford ,Astro,Van
+GMC,Savannah,Van
+Ford,F450,Pickup Truck
+Jeep,Laredo,SUV
+Lexus,LS430,Sedan
+Chevrolet,CK1500,Pickup Truck
+Mercedes-Benz,ML350,SUV
+Lexus,LS400,Sedan
+Lexus,LS,Sedan
+Ford,Econoline E450,Van
+Ford,Econoline E100,Van
+Lexus,LFA,Sports Sedan
+Toyota,Solara,Sedan
+Lexus,LC,Sedan
+LEXUS,IS350,Sedan
+Ford,F550,Pickup Truck
+GMC,Denali,SUV
+Chevrolet,CK2500,Pickup Truck
+Ford,F650,Pickup Truck
+LEXUS,IS300,Sedan
+Lexus,IS250,Sedan
+Lexus,IS250,Sedan
+LEXUS,IS200,Sedan
+Lexus,IS F,Sedan
+Lexus,IS,Sedan
+Lexus,HS,Sedan
+LEXUS,GX470,SUV
+LEXUS,GX460,SUV
+Lexus,GX,SUV
+Lexus,GS350,Sedan
+Lexus,GS,Sedan
+Lexus,ES350,Sedan
+Lexus,ES330,Sedan
+Lexus,ES300,Sedan
+Lexus,ES,Sedan
+Lexus,CT,Sedan
+Ford,F150 XLT,Pickup Truck
+Ford,Super Duty,Pickup Truck
+Audi,Quattro,Sedan
+Mercedes-Benz,S500,Sedan
+BMW,750,Sedan
+BMW,325,Sedan
+Mercedes-Benz,C250,Sedan
+Ford,F650 SUPER CREW,Pickup Truck
